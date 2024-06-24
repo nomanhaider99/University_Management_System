@@ -1,0 +1,11 @@
+{
+  "name": "university_management_system",
+  "version": "1.0.0",
+  "description": "fully functional university management system using OOPs typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noman Haider",
+  "license": "ISC"
+}
